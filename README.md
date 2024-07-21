@@ -157,7 +157,7 @@ hxxps://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.gle%2FrF
 hxxps://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.gle%2FrFDnUFD3CoX1UxA27&data=05%7C02%7C%7C5161dc9668084c5ec93f08dca4d880f8%7C252ec9a0a12c49f9ba6628624defd571%7C0%7C0%7C638566497025899129%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=Ilh6La%2B%2Fb8v7twK6PyOo4BFPf%2FU3oFC%2F%2FYMTE5UlgRU%3D&reserved=0 <br>
 
 Artifact Analysis: <br>
-A reverse DNS search on the sending server IP shows that this email originated from an internal server within the school's domain<br>
+A reverse DNS search on the sending server IP shows that this email originated from an internal server within the school's domain.<br>
 
 Wannabrowser and URL2PNG shows the URL redict's the client into a malicous personal/data harvester on google forms. <br>
 
