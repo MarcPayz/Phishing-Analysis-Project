@@ -165,7 +165,7 @@ Defensive Measures: <br>
 The sender of the email came from an official CityTech domain and was deemed internal. We are unable to block the server domain or IP because it may interfere with legitimate emails being sent, so I will block the subject line: <br>
 Subject Line Block (Email Gateway) "URGENT NOTICE: START APPLYING" on 7/21/2024 at 7:22 PM by Marc P. <br>
 
-The URL within the email is deemed malicious because it is extracting personal data on who ever completes the form. Since docs.google.com is a legitimate domain used by employee's or students, we are unable to block the entire domain. Instead I will block the entire URL because it's extremly specific and will only block the URL that has been provided. <br>
+The URL within the email is deemed malicious because it is extracting personal data on who ever completes the form. Since docs.google.com is a legitimate domain used by employee's or students, we are unable to block the domain. Instead I will block the entire URL because it's extremly specific and will only block the URL that has been provided. <br>
 URL Block (Web Proxy) "hxxps://docs.google.com/forms/d/e/1FAIpQLSdtQPCT5O8AwvyRMM6aebsNgMSAogLbpEMGCKFmOMiy7mUe7w/viewform?usp=send_form" on 7/21/2024 at 7:24 PM by Marc P.
 <br> <br>
 
