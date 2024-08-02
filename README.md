@@ -21,7 +21,7 @@ The primary objective of this project is to identify and analyze phishing emails
   
   
 ## General Knowledge
-Before I begin I will give a litle background on Sublime Text, Wannabrowser, DomainTools, URL2PNG and VirusTotal
+Before I begin I will give a litle background on Sublime Text, Wannabrowser, DomainTools, URL2PNG and VirusTotal.
 <br>
 
 Sublime is a text editor which I will be using for identifying and retrieving email artifacts.
